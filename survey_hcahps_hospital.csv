@@ -1,0 +1,301 @@
+"provider_id","hospital_name","address","city","state","zip_code","county_name","phone_number","hcahps_measure_id","hcahps_question","hcahps_answer_description","patient_survey_star_rating","patient_survey_star_rating_footnote","hcahps_answer_percent","hcahps_answer_percent_footnote","hcahps_linear_mean_value","number_of_completed_surveys_footnote","survey_response_rate_percent","survey_response_rate_percent_footnote","measure_start_date","measure_end_date","location"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_STAR_RATING","Summary star rating","Summary star rating","3",,"Not Applicable",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_CLEAN_HSP_A_P","Patients who reported that their room and bathroom were ""Always"" clean","Room was ""always"" clean","Not Applicable",,"67",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_CLEAN_HSP_SN_P","Patients who reported that their room and bathroom were ""Sometimes"" or ""Never"" clean","Room was ""sometimes"" or ""never"" clean","Not Applicable",,"14",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_CLEAN_HSP_U_P","Patients who reported that their room and bathroom were ""Usually"" clean","Room was ""usually"" clean","Not Applicable",,"19",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_CLEAN_LINEAR_SCORE","Cleanliness - linear mean score","Cleanliness - linear mean score","Not Applicable",,"Not Applicable",,"83",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_CLEAN_STAR_RATING","Cleanliness - star rating","Cleanliness - star rating","2",,"Not Applicable",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_1_A_P","Patients who reported that their nurses ""Always"" communicated well","Nurses ""always"" communicated well","Not Applicable",,"80",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_1_LINEAR_SCORE","Nurse communication - linear mean score","Nurse communication - linear mean score","Not Applicable",,"Not Applicable",,"91",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_1_SN_P","Patients who reported that their nurses ""Sometimes"" or ""Never"" communicated well","Nurses ""sometimes"" or ""never"" communicated well","Not Applicable",,"5",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_1_STAR_RATING","Nurse communication - star rating","Nurse communication - star rating","3",,"Not Applicable",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_1_U_P","Patients who reported that their nurses ""Usually"" communicated well","Nurses ""usually"" communicated well","Not Applicable",,"15",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_2_A_P","Patients who reported that their doctors ""Always"" communicated well","Doctors ""always"" communicated well","Not Applicable",,"86",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_2_LINEAR_SCORE","Doctor communication - linear mean score","Doctor communication - linear mean score","Not Applicable",,"Not Applicable",,"94",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_2_SN_P","Patients who reported that their doctors ""Sometimes"" or ""Never"" communicated well","Doctors ""sometimes"" or ""never"" communicated well","Not Applicable",,"3",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_2_STAR_RATING","Doctor communication - star rating","Doctor communication - star rating","4",,"Not Applicable",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_2_U_P","Patients who reported that their doctors ""Usually"" communicated well","Doctors ""usually"" communicated well","Not Applicable",,"11",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_3_A_P","Patients who reported that they ""Always"" received help as soon as they wanted","Patients ""always"" received help as soon as they wanted","Not Applicable",,"65",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_3_LINEAR_SCORE","Staff responsiveness - linear mean score","Staff responsiveness - linear mean score","Not Applicable",,"Not Applicable",,"84",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_3_SN_P","Patients who reported that they ""Sometimes"" or ""Never"" received help as soon as they wanted","Patients ""sometimes"" or ""never"" received help as soon as they wanted","Not Applicable",,"11",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_3_STAR_RATING","Staff responsiveness - star rating","Staff responsiveness - star rating","3",,"Not Applicable",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_3_U_P","Patients who reported that they ""Usually"" received help as soon as they wanted","Patients ""usually"" received help as soon as they wanted","Not Applicable",,"24",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_4_A_P","Patients who reported that their pain was ""Always"" well controlled","Pain was ""always"" well controlled","Not Applicable",,"74",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_4_LINEAR_SCORE","Pain management - linear mean score","Pain management - linear mean score","Not Applicable",,"Not Applicable",,"88",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_4_SN_P","Patients who reported that their pain was ""Sometimes"" or ""Never"" well controlled","Pain was ""sometimes"" or ""never"" well controlled","Not Applicable",,"9",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_4_STAR_RATING","Pain management - star rating","Pain management - star rating","3",,"Not Applicable",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_4_U_P","Patients who reported that their pain was ""Usually"" well controlled","Pain was ""usually"" well controlled","Not Applicable",,"17",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_5_A_P","Patients who reported that staff ""Always"" explained about medicines before giving it to them","Staff ""always"" explained","Not Applicable",,"69",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_5_LINEAR_SCORE","Communication about medicines - linear mean score","Communication about medicines - linear mean score","Not Applicable",,"Not Applicable",,"80",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_5_SN_P","Patients who reported that staff ""Sometimes"" or ""Never"" explained about medicines before giving it to them","Staff ""sometimes"" or ""never"" explained","Not Applicable",,"17",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_5_STAR_RATING","Communication about medicines - star rating","Communication about medicines - star rating","3",,"Not Applicable",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_5_U_P","Patients who reported that staff ""Usually"" explained about medicines before giving it to them","Staff ""usually"" explained","Not Applicable",,"14",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_6_LINEAR_SCORE","Discharge information - linear mean score","Discharge information - linear mean score","Not Applicable",,"Not Applicable",,"88",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_6_N_P","Patients who reported that NO, they were not given information about what to do during their recovery at home","No, staff ""did not"" give patients this information","Not Applicable",,"12",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_6_STAR_RATING","Discharge information - star rating","Discharge information - star rating","4",,"Not Applicable",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_6_Y_P","Patients who reported that YES, they were given information about what to do during their recovery at home","Yes, staff ""did"" give patients this information","Not Applicable",,"88",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_7_A","Patients who ΖAgreeΔ they understood their care when they left the hospital","Patients who ΖAgreeΔ they understood their care when they left the hospital","Not Applicable",,"42",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_7_D_SD","Patients who ΖDisagreeΔ or ΖStrongly DisagreeΔ they understood their care when they left the hospital","Patients who ΖDisagreeΔ or ΖStrongly DisagreeΔ they understood their care when they left the hospital","Not Applicable",,"6",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_7_LINEAR_SCORE","Care transition - linear mean score","Care transition - linear mean score","Not Applicable",,"Not Applicable",,"81",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_7_SA","Patients who ""Strongly Agree"" they understood their care when they left the hospital","Patients who ΖStrongly AgreeΔ they understood their care when they left the hospital","Not Applicable",,"52",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_COMP_7_STAR_RATING","Care transition - star rating","Care transition - star rating","2",,"Not Applicable",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_HSP_RATING_0_6","Patients who gave their hospital a rating of 6 or lower on a scale from 0 (lowest) to 10 (highest)","Patients who gave a rating of ""6"" or lower (low)","Not Applicable",,"7",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_HSP_RATING_7_8","Patients who gave their hospital a rating of 7 or 8 on a scale from 0 (lowest) to 10 (highest)","Patients who gave a rating of ""7"" or ""8"" (medium)","Not Applicable",,"20",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_HSP_RATING_9_10","Patients who gave their hospital a rating of 9 or 10 on a scale from 0 (lowest) to 10 (highest)","Patients who gave a rating of ""9"" or ""10"" (high)","Not Applicable",,"73",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_HSP_RATING_LINEAR_SCORE","Overall hospital rating - linear mean score","Overall hospital rating - linear mean score","Not Applicable",,"Not Applicable",,"90",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_HSP_RATING_STAR_RATING","Overall hospital rating - star rating","Overall hospital rating - star rating","4",,"Not Applicable",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_QUIET_HSP_A_P","Patients who reported that the area around their room was ""Always"" quiet at night","""Always"" quiet at night","Not Applicable",,"69",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_QUIET_HSP_SN_P","Patients who reported that the area around their room was ""Sometimes"" or ""Never"" quiet at night","""Sometimes"" or ""never"" quiet at night","Not Applicable",,"8",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_QUIET_HSP_U_P","Patients who reported that the area around their room was Usually quiet at night","Usually quiet at night","Not Applicable",,"23",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_QUIET_LINEAR_SCORE","Quietness - linear mean score","Quietness - linear mean score","Not Applicable",,"Not Applicable",,"86",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_QUIET_STAR_RATING","Quietness - star rating","Quietness - star rating","4",,"Not Applicable",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_RECMND_DN","Patients who reported NO, they would probably not or definitely not recommend the hospital","""NO"", patients would not recommend the hospital (they probably would not or definitely would not recommend it)","Not Applicable",,"4",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_RECMND_DY","Patients who reported YES, they would definitely recommend the hospital","""YES"", patients would definitely recommend the hospital","Not Applicable",,"73",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_RECMND_LINEAR_SCORE","Recommend hospital - linear mean score","Recommend hospital - linear mean score","Not Applicable",,"Not Applicable",,"89",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_RECMND_PY","Patients who reported YES, they would probably recommend the hospital","""YES"", patients would probably recommend the hospital","Not Applicable",,"23",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10005.0,"MARSHALL MEDICAL CENTER SOUTH","2505 U S HIGHWAY 431 NORTH","BOAZ","AL",35957.0,"MARSHALL",2.56593831E9,"H_RECMND_STAR_RATING","Recommend hospital - star rating","Recommend hospital - star rating","3",,"Not Applicable",,"Not Applicable",,"36%",,"2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","2505 U S HIGHWAY 431 NORTH
+BOAZ, AL 35957
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_STAR_RATING","Summary star rating","Summary star rating","Not Available","15 - The number of cases/patients is too few to report a star rating.","Not Applicable",,"Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_CLEAN_HSP_A_P","Patients who reported that their room and bathroom were ""Always"" clean","Room was ""always"" clean","Not Applicable",,"79","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_2_LINEAR_SCORE","Doctor communication - linear mean score","Doctor communication - linear mean score","Not Applicable",,"Not Applicable",,"Not Available",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_CLEAN_HSP_SN_P","Patients who reported that their room and bathroom were ""Sometimes"" or ""Never"" clean","Room was ""sometimes"" or ""never"" clean","Not Applicable",,"8","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_CLEAN_HSP_U_P","Patients who reported that their room and bathroom were ""Usually"" clean","Room was ""usually"" clean","Not Applicable",,"13","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_CLEAN_LINEAR_SCORE","Cleanliness - linear mean score","Cleanliness - linear mean score","Not Applicable",,"Not Applicable",,"Not Available",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_CLEAN_STAR_RATING","Cleanliness - star rating","Cleanliness - star rating","Not Available","15 - The number of cases/patients is too few to report a star rating.","Not Applicable",,"Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_1_A_P","Patients who reported that their nurses ""Always"" communicated well","Nurses ""always"" communicated well","Not Applicable",,"84","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_1_LINEAR_SCORE","Nurse communication - linear mean score","Nurse communication - linear mean score","Not Applicable",,"Not Applicable",,"Not Available",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_1_SN_P","Patients who reported that their nurses ""Sometimes"" or ""Never"" communicated well","Nurses ""sometimes"" or ""never"" communicated well","Not Applicable",,"5","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_1_STAR_RATING","Nurse communication - star rating","Nurse communication - star rating","Not Available","15 - The number of cases/patients is too few to report a star rating.","Not Applicable",,"Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_1_U_P","Patients who reported that their nurses ""Usually"" communicated well","Nurses ""usually"" communicated well","Not Applicable",,"11","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_2_A_P","Patients who reported that their doctors ""Always"" communicated well","Doctors ""always"" communicated well","Not Applicable",,"81","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_2_SN_P","Patients who reported that their doctors ""Sometimes"" or ""Never"" communicated well","Doctors ""sometimes"" or ""never"" communicated well","Not Applicable",,"8","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_2_STAR_RATING","Doctor communication - star rating","Doctor communication - star rating","Not Available","15 - The number of cases/patients is too few to report a star rating.","Not Applicable",,"Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_2_U_P","Patients who reported that their doctors ""Usually"" communicated well","Doctors ""usually"" communicated well","Not Applicable",,"11","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_3_A_P","Patients who reported that they ""Always"" received help as soon as they wanted","Patients ""always"" received help as soon as they wanted","Not Applicable",,"83","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_3_LINEAR_SCORE","Staff responsiveness - linear mean score","Staff responsiveness - linear mean score","Not Applicable",,"Not Applicable",,"Not Available",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_3_SN_P","Patients who reported that they ""Sometimes"" or ""Never"" received help as soon as they wanted","Patients ""sometimes"" or ""never"" received help as soon as they wanted","Not Applicable",,"5","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_3_STAR_RATING","Staff responsiveness - star rating","Staff responsiveness - star rating","Not Available","15 - The number of cases/patients is too few to report a star rating.","Not Applicable",,"Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_3_U_P","Patients who reported that they ""Usually"" received help as soon as they wanted","Patients ""usually"" received help as soon as they wanted","Not Applicable",,"12","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_4_A_P","Patients who reported that their pain was ""Always"" well controlled","Pain was ""always"" well controlled","Not Applicable",,"76","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_4_LINEAR_SCORE","Pain management - linear mean score","Pain management - linear mean score","Not Applicable",,"Not Applicable",,"Not Available",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_4_SN_P","Patients who reported that their pain was ""Sometimes"" or ""Never"" well controlled","Pain was ""sometimes"" or ""never"" well controlled","Not Applicable",,"9","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_4_STAR_RATING","Pain management - star rating","Pain management - star rating","Not Available","15 - The number of cases/patients is too few to report a star rating.","Not Applicable",,"Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_4_U_P","Patients who reported that their pain was ""Usually"" well controlled","Pain was ""usually"" well controlled","Not Applicable",,"15","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_5_A_P","Patients who reported that staff ""Always"" explained about medicines before giving it to them","Staff ""always"" explained","Not Applicable",,"77","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_5_LINEAR_SCORE","Communication about medicines - linear mean score","Communication about medicines - linear mean score","Not Applicable",,"Not Applicable",,"Not Available",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_5_SN_P","Patients who reported that staff ""Sometimes"" or ""Never"" explained about medicines before giving it to them","Staff ""sometimes"" or ""never"" explained","Not Applicable",,"15","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_5_STAR_RATING","Communication about medicines - star rating","Communication about medicines - star rating","Not Available","15 - The number of cases/patients is too few to report a star rating.","Not Applicable",,"Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_5_U_P","Patients who reported that staff ""Usually"" explained about medicines before giving it to them","Staff ""usually"" explained","Not Applicable",,"8","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_6_LINEAR_SCORE","Discharge information - linear mean score","Discharge information - linear mean score","Not Applicable",,"Not Applicable",,"Not Available",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_6_N_P","Patients who reported that NO, they were not given information about what to do during their recovery at home","No, staff ""did not"" give patients this information","Not Applicable",,"7","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_6_STAR_RATING","Discharge information - star rating","Discharge information - star rating","Not Available","15 - The number of cases/patients is too few to report a star rating.","Not Applicable",,"Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_6_Y_P","Patients who reported that YES, they were given information about what to do during their recovery at home","Yes, staff ""did"" give patients this information","Not Applicable",,"93","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_7_A","Patients who ΖAgreeΔ they understood their care when they left the hospital","Patients who ΖAgreeΔ they understood their care when they left the hospital","Not Applicable",,"37","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_7_D_SD","Patients who ΖDisagreeΔ or ΖStrongly DisagreeΔ they understood their care when they left the hospital","Patients who ΖDisagreeΔ or ΖStrongly DisagreeΔ they understood their care when they left the hospital","Not Applicable",,"6","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_7_LINEAR_SCORE","Care transition - linear mean score","Care transition - linear mean score","Not Applicable",,"Not Applicable",,"Not Available",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_7_SA","Patients who ""Strongly Agree"" they understood their care when they left the hospital","Patients who ΖStrongly AgreeΔ they understood their care when they left the hospital","Not Applicable",,"57","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_COMP_7_STAR_RATING","Care transition - star rating","Care transition - star rating","Not Available","15 - The number of cases/patients is too few to report a star rating.","Not Applicable",,"Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_HSP_RATING_0_6","Patients who gave their hospital a rating of 6 or lower on a scale from 0 (lowest) to 10 (highest)","Patients who gave a rating of ""6"" or lower (low)","Not Applicable",,"13","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_HSP_RATING_7_8","Patients who gave their hospital a rating of 7 or 8 on a scale from 0 (lowest) to 10 (highest)","Patients who gave a rating of ""7"" or ""8"" (medium)","Not Applicable",,"17","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_RECMND_LINEAR_SCORE","Recommend hospital - linear mean score","Recommend hospital - linear mean score","Not Applicable",,"Not Applicable",,"Not Available",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_HSP_RATING_9_10","Patients who gave their hospital a rating of 9 or 10 on a scale from 0 (lowest) to 10 (highest)","Patients who gave a rating of ""9"" or ""10"" (high)","Not Applicable",,"70","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","Not Applicable",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
+10032.0,"WEDOWEE HOSPITAL","209 NORTH MAIN STREET","WEDOWEE","AL",36278.0,"RANDOLPH",2.563572111E9,"H_HSP_RATING_LINEAR_SCORE","Overall hospital rating - linear mean score","Overall hospital rating - linear mean score","Not Applicable",,"Not Applicable",,"Not Available",,"33%","6 - Fewer than 100 patients completed the HCAHPS survey. Use these scores with caution, as the number of surveys may be too low to reliably assess hospital performance.","2015-01-01 00:00:00.000","2015-12-31 00:00:00.000","209 NORTH MAIN STREET
+WEDOWEE, AL 36278
+"
